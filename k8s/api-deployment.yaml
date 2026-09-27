@@ -1,0 +1,64 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: stocksense-api
+spec:
+  replicas: 1
+
+  selector:
+    matchLabels:
+      app: stocksense-api
+
+  template:
+    metadata:
+      labels:
+        app: stocksense-api
+
+    spec:
+      containers:
+        - name: stocksense-api
+          image: stocksense-api:latest
+
+          imagePullPolicy: IfNotPresent
+
+          ports:
+            - containerPort: 8000
+
+          resources:
+            requests:
+              memory: "128Mi"
+              cpu: "100m"
+            limits:
+              memory: "512Mi"
+              cpu: "500m"
+
+          env:
+            - name: DB_HOST
+              valueFrom:
+                configMapKeyRef:
+                  name: stocksense-api-config
+                  key: DB_HOST
+
+            - name: DB_NAME
+              valueFrom:
+                configMapKeyRef:
+                  name: stocksense-api-config
+                  key: DB_NAME
+
+            - name: DB_USER
+              valueFrom:
+                configMapKeyRef:
+                  name: stocksense-api-config
+                  key: DB_USER
+
+            - name: DB_PORT
+              valueFrom:
+                configMapKeyRef:
+                  name: stocksense-api-config
+                  key: DB_PORT
+
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: postgres-secret
+                  key: POSTGRES_PASSWORD

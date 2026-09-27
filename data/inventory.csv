@@ -1,0 +1,101 @@
+product_id,brand,model,tyre_size,category,vehicle_compatibility,stock,daily_sales,price
+101,MRF,Zapper,80/100-18,Bike,"Honda Shine,Hero Splendor,TVS Radeon",42,6,1650
+102,MRF,Zapper,90/90-18,Bike,"Bajaj Pulsar,TVS Apache,Honda Hornet,Yamaha FZ",28,5,1850
+103,MRF,Nylogrip,100/90-17,Bike,"Bajaj Pulsar 150,TVS Apache 160,Yamaha FZ",18,4,2100
+104,MRF,Nylogrip,110/70-17,Bike,"Bajaj Pulsar NS200,TVS Apache 200,Yamaha MT-15",9,3,2450
+105,MRF,Nylogrip,120/80-17,Bike,"Royal Enfield Classic 350,Royal Enfield Hunter 350",6,3,2750
+106,MRF,Masseter,100/90-18,Bike,"Royal Enfield Classic 350,Royal Enfield Bullet 350",22,4,2300
+107,CEAT,Zoom,80/100-18,Bike,"Honda Shine,Hero Splendor,TVS Radeon",35,5,1700
+108,CEAT,Zoom,90/90-18,Bike,"Bajaj Pulsar,TVS Apache,Honda Hornet,Yamaha FZ",24,5,1900
+109,CEAT,Zoom,100/80-17,Bike,"Bajaj Pulsar 150,TVS Apache 160,Yamaha FZ",17,4,2200
+110,CEAT,Gripp,110/70-17,Bike,"Bajaj Pulsar NS200,TVS Apache 200,Yamaha MT-15",11,3,2550
+111,CEAT,Gripp,120/80-17,Bike,"Royal Enfield Classic 350,Royal Enfield Hunter 350",7,2,2850
+112,CEAT,SecuraDrive,195/65 R15,Car,"Honda City,Hyundai Verna,Maruti Ciaz",16,3,5200
+113,Apollo,ActiGripp,80/100-18,Bike,"Honda Shine,Hero Splendor,TVS Radeon",31,6,1600
+114,Apollo,ActiGripp,90/90-18,Bike,"Bajaj Pulsar,TVS Apache,Honda Hornet,Yamaha FZ",21,4,1800
+115,Apollo,ActiGripp,100/90-17,Bike,"Bajaj Pulsar 150,TVS Apache 160,Yamaha FZ",14,3,2050
+116,Apollo,Alpha,110/70-17,Bike,"Bajaj Pulsar NS200,TVS Apache 200,Yamaha MT-15",8,3,2500
+117,Apollo,Alpha,120/80-17,Bike,"Royal Enfield Classic 350,Royal Enfield Hunter 350",5,2,2800
+118,Apollo,Amazer,175/65 R15,Car,"Maruti Swift,Hyundai Grand i10,Honda Amaze",20,3,4800
+119,Bridgestone,Turanza,185/65 R15,Car,"Honda City,Hyundai i20,Maruti Baleno,Tata Altroz",13,2,6100
+120,Bridgestone,Turanza,195/65 R15,Car,"Honda City,Hyundai Verna,Maruti Ciaz",18,3,6400
+121,Bridgestone,Turanza,205/55 R16,Car,"Honda Civic,Skoda Octavia,Volkswagen Jetta",9,2,7200
+122,Bridgestone,Ecopia,165/70 R14,Car,"Maruti Swift,Maruti WagonR,Hyundai Grand i10",25,3,4500
+123,Bridgestone,Ecopia,175/65 R15,Car,"Maruti Swift,Hyundai Grand i10,Honda Amaze",12,2,5100
+124,Michelin,Energy XM2+,165/70 R14,Car,"Maruti Swift,Maruti WagonR,Hyundai Grand i10",19,3,5600
+125,Michelin,Energy XM2+,175/65 R15,Car,"Maruti Swift,Hyundai Grand i10,Honda Amaze",14,2,6100
+126,Michelin,Energy XM2+,185/65 R15,Car,"Honda City,Hyundai i20,Maruti Baleno,Tata Altroz",10,2,6500
+127,Michelin,Primacy 4,195/65 R15,Car,"Honda City,Hyundai Verna,Maruti Ciaz",8,2,7800
+128,Michelin,Primacy 4,205/55 R16,Car,"Honda Civic,Skoda Octavia,Volkswagen Jetta",6,2,8500
+129,Goodyear,Assurance,165/70 R14,Car,"Maruti Swift,Maruti WagonR,Hyundai Grand i10",22,3,4700
+130,Goodyear,Assurance,175/65 R15,Car,"Maruti Swift,Hyundai Grand i10,Honda Amaze",15,2,5200
+131,Goodyear,Assurance,185/65 R15,Car,"Honda City,Hyundai i20,Maruti Baleno,Tata Altroz",11,2,5700
+132,Goodyear,Eagle F1,205/55 R16,Car,"Honda Civic,Skoda Octavia,Volkswagen Jetta",7,2,8200
+133,Yokohama,Earth-1,165/70 R14,Car,"Maruti Swift,Maruti WagonR,Hyundai Grand i10",18,3,5000
+134,Yokohama,Earth-1,175/65 R15,Car,"Maruti Swift,Hyundai Grand i10,Honda Amaze",13,2,5500
+135,Yokohama,Earth-1,185/65 R15,Car,"Honda City,Hyundai i20,Maruti Baleno,Tata Altroz",9,2,5900
+136,Yokohama,Earth-1,195/65 R15,Car,"Honda City,Hyundai Verna,Maruti Ciaz",6,2,6300
+137,Yokohama,Advan Sport,205/55 R16,Car,"Honda Civic,Skoda Octavia,Volkswagen Jetta",5,1,9000
+138,JK Tyre,Blaze,80/100-18,Bike,"Honda Shine,Hero Splendor,TVS Radeon",30,5,1550
+139,JK Tyre,Blaze,90/90-18,Bike,"Bajaj Pulsar,TVS Apache,Honda Hornet,Yamaha FZ",20,4,1750
+140,JK Tyre,Blaze,100/90-17,Bike,"Bajaj Pulsar 150,TVS Apache 160,Yamaha FZ",12,3,2000
+141,JK Tyre,Vectra,185/65 R15,Car,"Honda City,Hyundai i20,Maruti Baleno,Tata Altroz",14,2,4900
+142,JK Tyre,Vectra,195/65 R15,Car,"Honda City,Hyundai Verna,Maruti Ciaz",8,2,5300
+143,TVS Eurogrip,Protorq,80/100-18,Bike,"Honda Shine,Hero Splendor,TVS Radeon",34,6,1600
+144,TVS Eurogrip,Protorq,90/90-18,Bike,"Bajaj Pulsar,TVS Apache,Honda Hornet,Yamaha FZ",26,5,1800
+145,TVS Eurogrip,Protorq,100/80-17,Bike,"Bajaj Pulsar 150,TVS Apache 160,Yamaha FZ",15,4,2150
+146,TVS Eurogrip,Remora,110/70-17,Bike,"Bajaj Pulsar NS200,TVS Apache 200,Yamaha MT-15",10,3,2450
+147,TVS Eurogrip,Remora,120/80-17,Bike,"Royal Enfield Classic 350,Royal Enfield Hunter 350",6,2,2750
+148,Ralco,Speed Blaster,80/100-18,Bike,"Honda Shine,Hero Splendor,TVS Radeon",27,5,1450
+149,Ralco,Speed Blaster,90/90-18,Bike,"Bajaj Pulsar,TVS Apache,Honda Hornet,Yamaha FZ",19,4,1650
+150,Ralco,Speed Blaster,100/90-17,Bike,"Bajaj Pulsar 150,TVS Apache 160,Yamaha FZ",13,3,1950
+151,MRF,Nylogrip,90/90-19,Bike,"Royal Enfield Classic 350,Royal Enfield Bullet 350",16,3,2200
+152,MRF,Nylogrip,110/80-17,Bike,"Bajaj Pulsar NS200,TVS Apache 200,Yamaha R15",12,3,2650
+153,MRF,Steel Brace,100/90-18,Bike,"Royal Enfield Classic 350,Royal Enfield Bullet 350",19,3,2350
+154,MRF,Steel Brace,120/90-17,Bike,"Royal Enfield Classic 350,Royal Enfield Meteor 350",8,2,2900
+155,MRF,Perfinza,185/70 R14,Car,"Maruti Swift Dzire,Tata Indica,Hyundai Xcent",21,3,4600
+156,MRF,Perfinza,195/60 R15,Car,"Honda City,Hyundai Verna,Maruti Ciaz",10,2,5900
+157,CEAT,Zoom Rad X1,100/90-17,Bike,"Bajaj Pulsar 150,TVS Apache 160,Yamaha FZ",23,4,2250
+158,CEAT,Zoom Rad X1,110/80-17,Bike,"Bajaj Pulsar NS200,TVS Apache 200,Yamaha R15",9,2,2700
+159,CEAT,Milaze,90/90-18,Bike,"Honda Shine,Hero Splendor,Bajaj Pulsar",32,6,1750
+160,CEAT,Milaze,100/90-18,Bike,"Royal Enfield Classic 350,Royal Enfield Bullet 350",14,3,2200
+161,CEAT,SecuraDrive,185/65 R15,Car,"Honda City,Hyundai i20,Maruti Baleno,Tata Altroz",17,3,5100
+162,CEAT,SecuraDrive,205/55 R16,Car,"Honda Civic,Skoda Octavia,Volkswagen Jetta",6,1,7600
+163,CEAT,SportDrive,195/55 R16,Car,"Volkswagen Polo,Honda City,Hyundai i20",11,2,6800
+164,CEAT,EnergyDrive,175/70 R14,Car,"Maruti Swift Dzire,Hyundai Xcent,Tata Tigor",24,3,4900
+165,Apollo,ActiGripp,90/90-19,Bike,"Royal Enfield Classic 350,Royal Enfield Bullet 350",13,2,2150
+166,Apollo,ActiGripp,110/80-17,Bike,"Bajaj Pulsar NS200,TVS Apache 200,Yamaha R15",10,3,2600
+167,Apollo,ActiGripp,120/80-18,Bike,"Royal Enfield Classic 350,Royal Enfield Meteor 350",7,2,2850
+168,Apollo,Alpha H1,100/90-18,Bike,"Royal Enfield Classic 350,Royal Enfield Bullet 350",18,3,2400
+169,Apollo,Alpha H1,120/90-17,Bike,"Royal Enfield Classic 350,Royal Enfield Meteor 350",5,1,2950
+170,Apollo,Amazer 4G Life,185/70 R14,Car,"Maruti Swift Dzire,Hyundai Xcent,Tata Tigor",20,3,4700
+171,Apollo,Amazer 4G Life,195/60 R15,Car,"Honda City,Hyundai Verna,Maruti Ciaz",12,2,5500
+172,Apollo,Amazer 4G Life,205/65 R15,Car,"Toyota Innova,Maruti Ertiga,Kia Carens",9,2,6500
+173,Bridgestone,Turanzas,175/70 R14,Car,"Maruti Swift Dzire,Hyundai Xcent,Tata Tigor",18,3,5000
+174,Bridgestone,Turanza,195/60 R15,Car,"Honda City,Hyundai Verna,Maruti Ciaz",15,2,6700
+175,Bridgestone,Turanza,215/60 R16,Car,"Hyundai Creta,Kia Seltos,Maruti Grand Vitara",8,2,8200
+176,Bridgestone,Ecopia,185/70 R14,Car,"Maruti Swift Dzire,Tata Indica,Hyundai Xcent",23,3,4800
+177,Bridgestone,Ecopia,195/60 R15,Car,"Honda City,Hyundai Verna,Maruti Ciaz",11,2,6100
+178,Bridgestone,Alenza,215/60 R17,Car,"Hyundai Creta,Kia Seltos,MG Astor",7,1,9800
+179,Michelin,Energy XM2+,175/70 R14,Car,"Maruti Swift Dzire,Hyundai Xcent,Tata Tigor",16,2,5700
+180,Michelin,Energy XM2+,195/60 R15,Car,"Honda City,Hyundai Verna,Maruti Ciaz",9,2,6800
+181,Michelin,Primacy 4,215/60 R16,Car,"Hyundai Creta,Kia Seltos,Maruti Grand Vitara",8,2,9200
+182,Michelin,Primacy 4,225/55 R17,Car,"Skoda Octavia,Volkswagen Tiguan,Jeep Compass",5,1,10500
+183,Michelin,Pilot Sport 4,225/45 R17,Car,"Volkswagen Jetta,Skoda Octavia,Mini Cooper",4,1,11500
+184,Goodyear,Assurance,185/70 R14,Car,"Maruti Swift Dzire,Tata Indica,Hyundai Xcent",20,3,4600
+185,Goodyear,Assurance,195/60 R15,Car,"Honda City,Hyundai Verna,Maruti Ciaz",13,2,5500
+186,Goodyear,EfficientGrip,205/65 R15,Car,"Toyota Innova,Maruti Ertiga,Kia Carens",10,2,6700
+187,Goodyear,EfficientGrip,215/60 R16,Car,"Hyundai Creta,Kia Seltos,Maruti Grand Vitara",7,1,8100
+188,Goodyear,Eagle F1,225/45 R17,Car,"Volkswagen Jetta,Skoda Octavia,Mini Cooper",5,1,9800
+189,Yokohama,Earth-1,175/70 R14,Car,"Maruti Swift Dzire,Hyundai Xcent,Tata Tigor",19,3,5100
+190,Yokohama,Earth-1,195/60 R15,Car,"Honda City,Hyundai Verna,Maruti Ciaz",12,2,6200
+191,Yokohama,Earth-1,205/65 R15,Car,"Toyota Innova,Maruti Ertiga,Kia Carens",8,2,7200
+192,Yokohama,Geolandar,215/60 R17,Car,"Hyundai Creta,Kia Seltos,MG Astor",6,1,9300
+193,Yokohama,Advan Sport,225/45 R17,Car,"Volkswagen Jetta,Skoda Octavia,Mini Cooper",4,1,11000
+194,JK Tyre,Blaze,90/90-19,Bike,"Royal Enfield Classic 350,Royal Enfield Bullet 350",25,4,1650
+195,JK Tyre,Blaze,110/80-17,Bike,"Bajaj Pulsar NS200,TVS Apache 200,Yamaha R15",13,3,2100
+196,JK Tyre,Jet X,100/90-18,Bike,"Royal Enfield Classic 350,Royal Enfield Bullet 350",17,3,2250
+197,JK Tyre,Vectra,175/70 R14,Car,"Maruti Swift Dzire,Hyundai Xcent,Tata Tigor",22,3,4400
+198,JK Tyre,Vectra,205/65 R15,Car,"Toyota Innova,Maruti Ertiga,Kia Carens",9,2,5900
+199,TVS Eurogrip,Protorq,110/80-17,Bike,"Bajaj Pulsar NS200,TVS Apache 200,Yamaha R15",11,3,2550
+200,TVS Eurogrip,Duratrail,120/90-17,Bike,"Royal Enfield Classic 350,Royal Enfield Meteor 350",7,2,2800
